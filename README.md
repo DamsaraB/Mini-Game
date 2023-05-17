@@ -1,1 +1,2 @@
 # Mini-Game
+"Embark on a thrilling challenge in the 'Guess the Number' game! Test your intuition and numerical prowess as you try to uncover the mystery number hidden between 1 and 100. With an immersive UI and exciting gameplay, this game will keep you engaged as you strategize, analyze, and take your best shot at guessing the elusive target. Will you crack the code and achieve victory in record attempts? Step up and embrace the challenge!"
